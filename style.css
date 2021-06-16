@@ -1,0 +1,29 @@
+html,body {
+    margin: 0;
+    padding: 0;
+   
+    background-color:antiquewhite;
+    background-size: 100% 100%;
+    
+  }
+  
+  canvas{
+    border: 2px solid black;
+  }
+  
+  div{
+    background-color: aliceblue;
+    color: white;
+ 
+    margin: 10%;
+    padding: 2%;
+    border-radius: 100px;
+  }
+  h1 {
+    color: red;
+    font-size: 500%;
+    font-family: 'OSWALD';
+  }  
+p{
+  color:black;
+}
